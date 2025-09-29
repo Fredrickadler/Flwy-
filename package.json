@@ -13,4 +13,5 @@
     "react-dom": "18.2.0",
     "ethers": "^6.6.2",
     "@farcaster/frame-sdk": "0.0.64"
+  }
 }
